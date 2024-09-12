@@ -10,6 +10,3 @@ A **Verhaw iT** é uma empresa de tecnologia fundada em 2009, especializada em s
 Atendemos diversas regiões do Brasil, focando em entregar tecnologia de ponta e as melhores práticas em TI. A Verhaw se destaca por atender clientes em vários segmentos, como varejo farmacêutico, home care e automotivo.
 
 Saiba mais em nosso [site oficial](https://www.verhaw.com.br/).
-
-
-![Snake animation](https://github.com/Matheusp-Silva/Matheusp-Silva/blob/output/github-contribution-grid-snake.svg)
